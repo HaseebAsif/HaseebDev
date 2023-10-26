@@ -144,23 +144,6 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 
 <!-- Projects section -->
 
-## 📘 My top open source projects
-
-<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-
-
-  <p style="widht: 100%;" align="center">
-    <a href="https://github.com/HaseebAsif/frontend-nextjs-develop
-"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaseebAsif&repo=frontend-nextjs-develop
-&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true"></a>
-    <a href="https://github.com/HaseebAsif/otcMarket"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaseebAsif&repo=otcMarket&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="OTC Market"></a>
-  </p>
-</p>
-
-<p align="center">&#8192;</p>
-<p align="center">&#8192;</p>
-
 <p align="left">
   <a href="https://github.com/HaseebAsif?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
