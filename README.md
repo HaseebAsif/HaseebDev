@@ -8,11 +8,11 @@ There i made and page with the GIF content, later i record my screen with OBS
 after that i converter the video from mp4 to gif
 ur welcome ;)
 -->
-  <p align="center">
+  <div style='text-align:center'>
 
 <a align="center" href="https://github.com/HaseebAsif">![HaseebAsif Profile GIF](./assets/profile_presentation.gif)</a>
 
-</p>
+</div>
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
   <p align="center">
