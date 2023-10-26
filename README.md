@@ -111,11 +111,12 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
   <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
   <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code>
-
+<p align="center">
 <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
 <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
 <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
 
+</p>
 </p>
 <br>
 
@@ -148,13 +149,13 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/HaseebAsif/sipath"><img align="left" width="45%" height="150px" src="https://sipath.vercel.app/" alt="readme-typing-svg"></a>
-    <a href="https://github.com/HaseebAsif/direct-mandat"><img align="right" width="45%" height="150px" src="https://direct-mandat.vercel.app/" alt="readme-typing-svg"></a>
+    <a href="https://github.com/HaseebAsif/sipath"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaseebAsif&repo=sipath&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="sipath" alt="sipath"></a>
+    <a href="https://github.com/HaseebAsif/direct-mandat"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaseebAsif&repo=direct-mandat&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="direct mandat"></a>
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/HaseebAsif/Stupid-Monkeys"><img align="left" width="45%" height="150px" src="https://stupid-monkeys.vercel.app/"></a>
-    <a href="https://github.com/HaseebAsif/otcMarket"><img align="right" width="45%" height="150px" src="https://otc-market-haseebasif.vercel.app/" alt="custom-icon-badges"></a>
+    <a href="https://github.com/HaseebAsif/Stupid-Monkeys"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaseebAsif&repo=Stupid-Monkeys&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true"></a>
+    <a href="https://github.com/HaseebAsif/otcMarket"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaseebAsif&repo=otcMarket&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="OTC Market"></a>
   </p>
 </p>
 
