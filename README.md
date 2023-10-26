@@ -10,7 +10,7 @@ ur welcome ;)
 -->
   <p align="center">
 
-<a href="https://github.com/HaseebAsif">![HaseebAsif Profile GIF](./assets/profile_presentation.gif)</a>
+<a align="center" href="https://github.com/HaseebAsif">![HaseebAsif Profile GIF](./assets/profile_presentation.gif)</a>
 
 </p>
 <!-- Social icons section -->
